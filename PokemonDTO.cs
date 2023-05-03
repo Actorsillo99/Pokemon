@@ -1,0 +1,18 @@
+namespace Pokemon;
+
+class PokemonDTO
+{
+    public int Id { get; set; }
+    public string Nombre { get; set; }
+    public string Tipo { get; set; }
+    public double Defensa { get; set; }
+    public List<int> Habilidades { get; set; } 
+    public string PropiedadPersonalizada1 { get; set; }
+    public int PropiedadPersonalizada2 { get; set; }
+
+    
+}
+
+
+
+

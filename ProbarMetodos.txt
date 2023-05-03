@@ -1,0 +1,59 @@
+
+ESTOS METODOS SE PRUEBAN DESDE LA EXTENSION: https://reqbin.com/
+
+http://localhost:5035/api/v1/pokemon/crearunpokemon
+http://localhost:5035/api/v1/pokemon/mostrarunpokemon/{Id}
+http://localhost:5035/api/v1/pokemon/crearmuchospoke
+http://localhost:5035/api/v1/pokemon/mostrarpokeportipo/{Tipo}
+http://localhost:5035/api/v1/pokemon/actualizarpoke/{Id}
+ http://localhost:5035/api/v1/pokemon/eliminarpoke/{Id}
+
+{
+  "Id": 1,
+  "Nombre": "Indomable",
+  "Tipo": "Acuatico",
+  "Defensa": 15.67,
+  "Habilidad": 15
+  
+},
+
+{
+  "Id": 2,
+  "Nombre": "Picachu",
+  "Tipo": "Electrico",
+  "Defensa": 20.10,
+  "Habilidad": [14,19,3]
+  
+},
+
+{
+  "Id": 3,
+  "Nombre": "Especial",
+  "Tipo": "Aereo",
+  "Defensa": 5.89,
+  "Habilidad": [50,4,80]
+  
+},
+
+{
+  "Id": 4,
+  "Nombre": "Acuaman",
+  "Tipo": "Acuatico",
+  "Defensa": 15.14,
+  "Habilidad": [12,67,5]
+  
+},
+
+{
+  "Id": 5,
+  "Nombre": "TodoPoderoso",
+  "Tipo": "Aereo",
+  "Defensa": 45.89,
+  "Habilidad": 9
+  
+},
+
+
+
+
+
